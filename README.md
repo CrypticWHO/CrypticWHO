@@ -6,8 +6,8 @@
 
 - 📫 How to reach me **pawandinushan@gmail.com**
 
-- 📄 Know about my experiences [💻 Interned for 1.5 years (3 months as a trainee) at a Network & Security Company in Kuwait 🔒🌐](💻 Interned for 1.5 years (3 months as a trainee) at a Network & Security Company in Kuwait 🔒🌐)
-
+- 📄 Know about my experiences [💻 Interned for 1.5 years (3 months as a trainee) at a Network & Security Company in Kuwait 🔒🌐]
+  
 - ⚡ Fun fact **"19, computer science student at APU Malaysia. Into SQL, Python, and gaming. Ex-intern at Future Tec Kuwait. Always down for coding, gaming, or random fun facts."**
 
 <h3 align="left">Connect with me:</h3>
