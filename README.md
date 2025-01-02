@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Computer sicence @Asia pacific university**
 
-- 📫 How to reach me **pawandinushan@gmail**
+- 📫 How to reach me **pawandinushan@gmail.com**
 
 - 📄 Know about my experiences [💻 Interned for 1.5 years (3 months as a trainee) at a Network & Security Company in Kuwait 🔒🌐](💻 Interned for 1.5 years (3 months as a trainee) at a Network & Security Company in Kuwait 🔒🌐)
 
