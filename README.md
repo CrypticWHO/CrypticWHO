@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pawan Dinushan</h1>
 <h3 align="center">🎓 19 y/o Computer Science student in, Malaysia</h3>
 
-
 - 🌱 I’m currently learning **Computer sicence @Asia pacific university**
 
 - 📫 How to reach me **pawandinushan@gmail.com**
@@ -18,3 +17,11 @@
 <a href="https://discord.gg/cryptiwho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cryptiwho" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages & Tools:</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+</p>
