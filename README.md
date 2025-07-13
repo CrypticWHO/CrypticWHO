@@ -1,4 +1,3 @@
-Got it! Here's a **clean, data-focused** version of your GitHub README with **no mention of cybersecurity or other categories**, fully aligned with your goal of becoming a **Data Scientist** and your **BSc (Hons) in Computer Science with Specialization in Data Analytics**:
 
 ---
 
@@ -74,4 +73,3 @@ Python | SQL | Data Cleaning | Data Visualization | Statistics | Jupyter | Panda
 
 ---
 
-Would you like me to export this as a `README.md` file ready to upload to your GitHub profile?
