@@ -1,46 +1,77 @@
-# 👋 Hi, I'm Pawan Dinushan
-
-🎓 Computer Science Undergraduate | Asia Pacific University, Malaysia  
-🌐 Tech Enthusiast | Cybersecurity & Networking Focus | Passionate Learner  
+Got it! Here's a **clean, data-focused** version of your GitHub README with **no mention of cybersecurity or other categories**, fully aligned with your goal of becoming a **Data Scientist** and your **BSc (Hons) in Computer Science with Specialization in Data Analytics**:
 
 ---
 
-🔭 I’m currently working on:  
-Building smart systems with AI integrations, improving my backend development skills, and experimenting with real-world cybersecurity use cases. I'm also exploring full-stack projects and cloud technologies.
+# 👋 Hi, I'm Pawan Dinushan
 
-🌱 I’m currently learning:  
-Advanced Python, SQL optimization, Linux system tools, C programming, and assembly language development. Also exploring Botpress for building intelligent chatbots and diving into ethical hacking.
+🎓 **BSc (Hons) in Computer Science (Specialization in Data Analytics)** — Asia Pacific University, Malaysia
+📊 **Aspiring Data Scientist** | 🧠 Passionate about Data, AI & Automation
 
-👯 I’m looking to collaborate on:  
-AI prototypes, chatbot systems, C/Assembly-based embedded projects, or cybersecurity tools that blend innovation with real-world impact.
+---
 
-🤝 I’m looking for help with:  
-Mastering cloud infrastructure (AWS/GCP), advanced pentesting techniques, and building scalable systems using modern frameworks.
+### 🚀 About Me
 
-👨‍💻 Check out my projects on:  
+I’m a driven computer science student with a deep interest in **data analysis**, **machine learning**, and **turning raw data into actionable insights**. I enjoy solving real-world problems through code, statistics, and meaningful visualizations.
+
+---
+
+### 🔭 What I'm Working On
+
+* Exploring **real-world data science projects** using Python & SQL
+* Building **machine learning models** and data visualizations
+* Learning how to build **automated data pipelines** and dashboards
+* Working on **portfolio projects** that showcase end-to-end data solutions
+
+---
+
+### 🌱 Currently Learning
+
+* 📌 **Python for Data Science** (NumPy, Pandas, Matplotlib, Seaborn)
+* 🤖 **Machine Learning** with scikit-learn
+* 🗄️ **SQL optimization** & relational data modeling
+* 📊 **Data visualization** with Power BI and Tableau
+* ☁️ Basics of **Cloud Platforms** (AWS/GCP) for scalable data solutions
+
+---
+
+### 🤝 Open to Collaborate On
+
+* Data analytics or machine learning projects
+* Visualization dashboards and business intelligence tools
+* Academic or open-source data projects with real impact
+
+---
+
+### 💬 Ask Me About
+
+Python | SQL | Data Cleaning | Data Visualization | Statistics | Jupyter | Pandas | Scikit-learn | Power BI | Git/GitHub
+
+---
+
+### 📫 Reach Me
+
+📧 [Gmail](mailto:pawandinushan@gmail.com)
 🔗 [GitHub Portfolio](https://github.com/CrypticWHO)
-
-💬 Ask me about:  
-Python, C, SQL, Assembly, HTML/CSS, Linux, Botpress, Networking, Wireshark, Git/GitHub, VS Code, cybersecurity basics.
-
-📫 Reach me at:  
-📧 [pawandinushan@gmail.com](mailto:pawandinushan@gmail.com)  
-🌐 LinkedIn coming soon...
+🌐 [LinkedIn](https://www.linkedin.com/in/rathnaweera-patabendige-pawan-dinushan-285184308/)
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/assembly.png" alt="Assembly" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
 ---
 
-⚡ *Fun Fact:* I'm always down for a coding session, a deep dive into networking protocols, or a quick game break. Curious, committed, and caffeine-fueled.
+⚡ **Fun Fact:** I love transforming messy data into visual stories that speak for themselves — and I never say no to a good dataset.
+
+---
+
+Would you like me to export this as a `README.md` file ready to upload to your GitHub profile?
