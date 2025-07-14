@@ -43,7 +43,7 @@ I’m a driven computer science student with a deep interest in **data analysis*
 
 ### 💬 Ask Me About
 
-Python | SQL | HTML |  | CSS |
+Python | SQL | HTML | CSS | C | Assembly |
 
 ---
 
