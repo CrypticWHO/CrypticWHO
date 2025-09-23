@@ -70,8 +70,11 @@ Python | SQL | HTML | CSS | C | Assembly
 
 ### 🏅 My 5G Pioneers Badge
 
-[![5G Pioneers Badge](https://images.credly.com/size/340x340/images/38f08d98-1374-4c3e-9af7-bd196390867c.png)](https://www.credly.com/badges/38f08d98-1374-4c3e-9af7-bd196390867c/public_url)
-
+<p align="center">
+  <a href="https://www.credly.com/badges/38f08d98-1374-4c3e-9af7-bd196390867c/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/38f08d98-1374-4c3e-9af7-bd196390867c.png" alt="5G Pioneers Badge" width="150"/>
+  </a>
+</p>
 
 ---
 
