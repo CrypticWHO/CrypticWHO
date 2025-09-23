@@ -70,8 +70,8 @@ Python | SQL | HTML | CSS | C | Assembly
 
 ### 🏅 My 5G Pioneers Badge
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="38f08d98-1374-4c3e-9af7-bd196390867c" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![5G Pioneers Badge](https://images.credly.com/size/340x340/images/38f08d98-1374-4c3e-9af7-bd196390867c.png)](https://www.credly.com/badges/38f08d98-1374-4c3e-9af7-bd196390867c/public_url)
+
 
 ---
 
