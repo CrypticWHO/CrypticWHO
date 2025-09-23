@@ -1,9 +1,8 @@
-
 ---
 
 # 👋 Hi, I'm Pawan Dinushan
 
-🎓 **BSc (Hons) in Computer Science (Specialization in Data Analytics)** — Asia Pacific University, Malaysia
+🎓 **BSc (Hons) in Computer Science (Specialization in Data Analytics)** — Asia Pacific University, Malaysia  
 📊 **Aspiring Data Scientist** | 🧠 Passionate about Data, AI & Automation
 
 ---
@@ -16,41 +15,41 @@ I’m a driven computer science student with a deep interest in **data analysis*
 
 ### 🔭 What I'm Working On
 
-* Exploring **real-world data science projects** using Python & SQL
-* Building **machine learning models** and data visualizations
-* Learning how to build **automated data pipelines** and dashboards
+* Exploring **real-world data science projects** using Python & SQL  
+* Building **machine learning models** and data visualizations  
+* Learning how to build **automated data pipelines** and dashboards  
 * Working on **portfolio projects** that showcase end-to-end data solutions
 
 ---
 
 ### 🌱 Currently Learning
 
-* 📌 **Python for Data Science** (NumPy, Pandas, Matplotlib, Seaborn)
-* 🤖 **Machine Learning** with scikit-learn
-* 🗄️ **SQL optimization** & relational data modeling
-* 📊 **Data visualization** with Power BI and Tableau
+* 📌 **Python for Data Science** (NumPy, Pandas, Matplotlib, Seaborn)  
+* 🤖 **Machine Learning** with scikit-learn  
+* 🗄️ **SQL optimization** & relational data modeling  
+* 📊 **Data visualization** with Power BI and Tableau  
 * ☁️ Basics of **Cloud Platforms** (AWS/GCP) for scalable data solutions
 
 ---
 
 ### 🤝 Open to Collaborate On
 
-* Data analytics or machine learning projects
-* Visualization dashboards and business intelligence tools
+* Data analytics or machine learning projects  
+* Visualization dashboards and business intelligence tools  
 * Academic or open-source data projects with real impact
 
 ---
 
 ### 💬 Ask Me About
 
-Python | SQL | HTML | CSS | C | Assembly |
+Python | SQL | HTML | CSS | C | Assembly
 
 ---
 
 ### 📫 Reach Me
 
-📧 [Gmail](mailto:pawandinushan@gmail.com)
-🔗 [GitHub Portfolio](https://github.com/CrypticWHO)
+📧 [Gmail](mailto:pawandinushan@gmail.com)  
+🔗 [GitHub Portfolio](https://github.com/CrypticWHO)  
 🌐 [LinkedIn](https://www.linkedin.com/in/rathnaweera-patabendige-pawan-dinushan-285184308/)
 
 ---
@@ -67,10 +66,13 @@ Python | SQL | HTML | CSS | C | Assembly |
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" alt="Assembly" width="40" height="40"/>
 </p>
 
+---
+
+### 🏅 My 5G Pioneers Badge
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="38f08d98-1374-4c3e-9af7-bd196390867c" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ---
 
 ⚡ **Fun Fact:** I love transforming messy data into visual stories that speak for themselves — and I never say no to a good dataset.
-
----
-
