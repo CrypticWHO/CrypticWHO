@@ -32,14 +32,6 @@ I’m a driven computer science student with a deep interest in **data analysis*
 
 ---
 
-### 🤝 Open to Collaborate On
-
-* Data analytics or machine learning projects  
-* Visualization dashboards and business intelligence tools  
-* Academic or open-source data projects with real impact
-
----
-
 ### 💬 Ask Me About
 
 Python | SQL | HTML | CSS | C | Assembly
