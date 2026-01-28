@@ -48,11 +48,11 @@ I don't just write code; I am learning to structure data pipelines, visualize tr
 ### 🏅 Certifications & Achievements
 
 <p align="left">
-  <a href="https://www.credly.com/badges/38f08d98-1374-4c3e-9af7-bd196390867c/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/38f08d98-1374-4c3e-9af7-bd196390867c.png" alt="5G Pioneers Badge" width="130" style="margin-right: 15px;"/>
+  <a href="https://www.credly.com/earner/earned/share/89d84788-39dc-4d7c-90b3-94df12919107" target="_blank">
+    <img src="https://images.credly.com/images/ae2f5bae-b110-4ea1-8e26-77cf5f86c874/Red_Hat_Certified_Enterprise_Application_Developer.png" alt="Red Hat Certified" width="140" style="margin-right: 15px;"/>
   </a>
 
-  <a href="https://www.credly.com/earner/earned/share/89d84788-39dc-4d7c-90b3-94df12919107" target="_blank">
-    <img src="https://via.placeholder.com/150?text=Badge+Image+Here" alt="New Certification" width="130"/>
+  <a href="https://www.credly.com/badges/38f08d98-1374-4c3e-9af7-bd196390867c/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/38f08d98-1374-4c3e-9af7-bd196390867c.png" alt="5G Pioneers Badge" width="140"/>
   </a>
 </p>
