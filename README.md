@@ -1,73 +1,58 @@
----
-
 # 👋 Hi, I'm Pawan Dinushan
 
-🎓 **BSc (Hons) in Computer Science (Specialization in Data Analytics)** — Asia Pacific University, Malaysia  
-📊 **Aspiring Data Scientist** | 🧠 Passionate about Data, AI & Automation
+**Data Analytics Undergraduate | Aspiring Data Analyst**
+
+I am a second-year Computer Science student at **Asia Pacific University, Malaysia**, specializing in **Data Analytics**. I am currently focused on bridging the gap between academic theory and real-world business intelligence. My goal is to build a robust foundation in data science and progress into leadership roles within the analytics field.
 
 ---
 
 ### 🚀 About Me
 
-I’m a driven computer science student with a deep interest in **data analysis**, **machine learning**, and **turning raw data into actionable insights**. I enjoy solving real-world problems through code, statistics, and meaningful visualizations.
+I am currently in my **2nd Year, 2nd Semester**, actively expanding my technical toolkit beyond the basics. While I have a background in general computing, my passion lies in **interpreting data** to drive decision-making.
+
+I don't just write code; I am learning to structure data pipelines, visualize trends, and optimize queries to solve actual problems. I am looking for opportunities to apply my skills in **Data Analysis** and grow within a forward-thinking data team.
 
 ---
 
-### 🔭 What I'm Working On
+### 🛠️ Technical Stack
 
-* Exploring **real-world data science projects** using Python & SQL  
-* Building **machine learning models** and data visualizations  
-* Learning how to build **automated data pipelines** and dashboards  
-* Working on **portfolio projects** that showcase end-to-end data solutions
+**Languages & Core Concepts**
+* **Python:** Pandas, NumPy, Matplotlib (Data Manipulation & Visualization)
+* **Java:** Object-Oriented Design (OODJ)
+* **SQL:** Database management and query optimization
+* **C & Assembly:** Low-level computing fundamentals
 
----
-
-### 🌱 Currently Learning
-
-* 📌 **Python for Data Science** (NumPy, Pandas, Matplotlib, Seaborn)  
-* 🤖 **Machine Learning** with scikit-learn  
-* 🗄️ **SQL optimization** & relational data modeling  
-* 📊 **Data visualization** with Power BI and Tableau  
-* ☁️ Basics of **Cloud Platforms** (AWS/GCP) for scalable data solutions
+**Data Analysis & Visualization Tools**
+* **SAS Studio:** Statistical analysis and data management
+* **Power BI:** Dashboard creation and business reporting
+* **Excel:** Advanced data filtering and pivoting
 
 ---
 
-### 💬 Ask Me About
+### 🔭 Current Focus
 
-Python | SQL | HTML | CSS | C | Assembly
-
----
-
-### 📫 Reach Me
-
-📧 [Gmail](mailto:pawandinushan@gmail.com)  
-🔗 [GitHub Portfolio](https://github.com/CrypticWHO)  
-🌐 [LinkedIn](https://www.linkedin.com/in/rathnaweera-patabendige-pawan-dinushan-285184308/)
+* **Projects:** Developing end-to-end data solutions that integrate Python for processing and Power BI for visualization.
+* **Learning:** Deepening my knowledge of **SAS Studio** for enterprise-level analytics and refining my understanding of **relational data modeling**.
+* **Goal:** To move from "student projects" to scalable, professional-grade data analysis work.
 
 ---
 
-## 💻 Tech Stack
+### 📫 Connect With Me
+
+* 📧 **Email:** [pawandinushan@gmail.com](mailto:pawandinushan@gmail.com)
+* 🔗 **LinkedIn:** [Pawan Dinushan](https://www.linkedin.com/in/rathnaweera-patabendige-pawan-dinushan-285184308/)
+* 📂 **Portfolio:** [GitHub Repositories](https://github.com/CrypticWHO)
+
+---
+
+### 🏅 Certifications & Achievements
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" alt="Assembly" width="40" height="40"/>
-</p>
-
----
-
-### 🏅 My 5G Pioneers Badge
-
-<p align="center">
   <a href="https://www.credly.com/badges/38f08d98-1374-4c3e-9af7-bd196390867c/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/38f08d98-1374-4c3e-9af7-bd196390867c.png" alt="5G Pioneers Badge" width="150"/>
+    <img src="https://images.credly.com/size/340x340/images/38f08d98-1374-4c3e-9af7-bd196390867c.png" alt="5G Pioneers Badge" width="130" style="margin-right: 15px;"/>
+  </a>
+
+  <a href="https://www.credly.com/earner/earned/share/89d84788-39dc-4d7c-90b3-94df12919107" target="_blank">
+    <img src="https://via.placeholder.com/150?text=Badge+Image+Here" alt="New Certification" width="130"/>
   </a>
 </p>
-
----
-
-⚡ **Fun Fact:** I love transforming messy data into visual stories that speak for themselves — and I never say no to a good dataset.
