@@ -56,7 +56,4 @@ I don't just write code; I am learning to structure data pipelines, visualize tr
     <img src="https://images.credly.com/size/340x340/images/5bbd06f5-241c-4fcd-be47-d195c223d9c0/image.png" alt="Data Science Certification" width="150" style="margin-right: 20px;"/>
   </a>
 
-  <a href="https://www.credly.com/badges/38f08d98-1374-4c3e-9af7-bd196390867c/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/38f08d98-1374-4c3e-9af7-bd196390867c.png" alt="5G Pioneers Badge" width="150"/>
-  </a>
-</p>
+
