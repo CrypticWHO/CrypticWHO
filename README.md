@@ -23,6 +23,7 @@ I don't just write code; I am learning to structure data pipelines, visualize tr
 * **C & Assembly:** Low-level computing fundamentals
 
 **Data Analysis & Visualization Tools**
+* **R / RStudio:** Statistical computing and graphics
 * **SAS Studio:** Statistical analysis and data management
 * **Power BI:** Dashboard creation and business reporting
 * **Excel:** Advanced data filtering and pivoting
@@ -32,7 +33,7 @@ I don't just write code; I am learning to structure data pipelines, visualize tr
 ### 🔭 Current Focus
 
 * **Projects:** Developing end-to-end data solutions that integrate Python for processing and Power BI for visualization.
-* **Learning:** Deepening my knowledge of **SAS Studio** for enterprise-level analytics and refining my understanding of **relational data modeling**.
+* **Learning:** expanding my toolkit with industry-standard analysis tools (currently exploring **R** and **SAS**) to handle complex datasets more effectively.
 * **Goal:** To move from "student projects" to scalable, professional-grade data analysis work.
 
 ---
@@ -56,4 +57,4 @@ I don't just write code; I am learning to structure data pipelines, visualize tr
     <img src="https://images.credly.com/size/340x340/images/5bbd06f5-241c-4fcd-be47-d195c223d9c0/image.png" alt="Data Science Certification" width="150" style="margin-right: 20px;"/>
   </a>
 
-
+</p>
