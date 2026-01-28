@@ -40,4 +40,23 @@ I don't just write code; I am learning to structure data pipelines, visualize tr
 ### 📫 Connect With Me
 
 * 📧 **Email:** [pawandinushan@gmail.com](mailto:pawandinushan@gmail.com)
-* 🔗 **LinkedIn:** [Pawan Dinushan](
+* 🔗 **LinkedIn:** [Pawan Dinushan](https://www.linkedin.com/in/rathnaweera-patabendige-pawan-dinushan-285184308/)
+* 📂 **Portfolio:** [GitHub Repositories](https://github.com/CrypticWHO)
+
+---
+
+### 🏅 Certifications & Achievements
+
+<p align="left">
+  <a href="https://www.credly.com/earner/earned/share/89d84788-39dc-4d7c-90b3-94df12919107" target="_blank">
+    <img src="https://images.credly.com/images/1bc718d9-6aae-4b20-81f9-a19b4982a026/blob" alt="Red Hat Certified" width="150" style="margin-right: 20px;"/>
+  </a>
+
+  <a href="#" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/5bbd06f5-241c-4fcd-be47-d195c223d9c0/image.png" alt="Data Science Certification" width="150" style="margin-right: 20px;"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/38f08d98-1374-4c3e-9af7-bd196390867c/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/38f08d98-1374-4c3e-9af7-bd196390867c.png" alt="5G Pioneers Badge" width="150"/>
+  </a>
+</p>
